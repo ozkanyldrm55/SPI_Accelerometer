@@ -1,0 +1,7 @@
+main.c:13:6:SPIConfig	8	static
+main.c:32:6:GPIOConfig	8	static
+main.c:67:6:SPI_Tx	16	static
+main.c:86:9:SPI_Rx	16	static
+main.c:104:5:main	8	static
+main.c:122:6:EVAL_AUDIO_TransferComplete_CallBack	16	static
+main.c:131:10:EVAL_AUDIO_GetSampleCallBack	4	static
